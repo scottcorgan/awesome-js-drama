@@ -26,7 +26,7 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 ## Compile-to-JavaScript
 
-[JSX vs not](https://twitter.com/andrestaltz/status/693197734740938753)
+* [JSX vs not](https://twitter.com/andrestaltz/status/693197734740938753)
 
 ## Misc.
 
