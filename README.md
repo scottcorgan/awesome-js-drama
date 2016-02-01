@@ -2,7 +2,7 @@
 
 A collection of Javascript topics that spark the just might spark the next revolt!
 
-This list is only meant to keep track of how often we as a people disagree with each other in JavaScript. This is **NOT** meant to harm, offend, exclude, bully, or make fun of people.
+This list is only meant to keep track of how often we as a people disagree with each other in JavaScript. This is **NOT** meant to harm, offend, exclude, bully, or make fun of people. Disagreeing leads to better programming!
 
 ### Rules
 
