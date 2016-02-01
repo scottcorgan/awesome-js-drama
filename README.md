@@ -12,19 +12,19 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 ## Frameworks
 
-[Why React/Redux is inferior as a paradigm](https://news.ycombinator.com/item?id=10940845)
+* [Why React/Redux is inferior as a paradigm](https://news.ycombinator.com/item?id=10940845)
 
 ## Async
 
-[Voting for favorite async types](https://twitter.com/jaffathecake/status/693913976422416387)
-[redux-saga removing promises](https://twitter.com/dan_abramov/status/693515104466378752)
+* [Voting for favorite async types](https://twitter.com/jaffathecake/status/693913976422416387)
+* [redux-saga removing promises](https://twitter.com/dan_abramov/status/693515104466378752)
 
 ## Node
 
-[ES* in Node](https://twitter.com/Fishrock123/status/691676456649408512)
+* [ES* in Node](https://twitter.com/Fishrock123/status/691676456649408512)
 
 ## Compile-to-JavaScript
 
 ## Misc.
 
-[Javascript Fatigue](https://www.google.com/webhp?ion=1&espv=2&es_th=1&ie=UTF-8#q=medium%20javascript%20fatigue&es_th=1)
+* [Javascript Fatigue](https://www.google.com/webhp?ion=1&espv=2&es_th=1&ie=UTF-8#q=medium%20javascript%20fatigue&es_th=1)
