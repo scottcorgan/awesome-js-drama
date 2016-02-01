@@ -21,3 +21,7 @@ You may not mention a person, just a top of disagreement. You may only link to a
 [ES* in Node](https://twitter.com/Fishrock123/status/691676456649408512)
 
 ## Compile-to-JavaScript
+
+## Misc.
+
+[Javascript Fatigue](https://www.google.com/webhp?ion=1&espv=2&es_th=1&ie=UTF-8#q=medium%20javascript%20fatigue&es_th=1)
