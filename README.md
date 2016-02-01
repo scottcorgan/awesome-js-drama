@@ -16,6 +16,7 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 ## Async
 
+[Voting for favorite async types](https://twitter.com/jaffathecake/status/693913976422416387)
 [redux-saga removing promises](https://twitter.com/dan_abramov/status/693515104466378752)
 
 ## Node
