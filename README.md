@@ -6,7 +6,7 @@ This list is only meant to keep track of how often we as a people disagree with 
 
 ### Rules
 
-You may not mention a person, just a topic of disagreement. You may only link to articles, Twitter conversations, or custom Social feed curations (such as Storify).
+You may not mention a person, just a topic of disagreement. You may only link to articles, Twitter conversations, or custom Social feed curations (such as Storify) that are thunderingly sources of differing opinions. Careful consideration will be taken to add any new links.
 
 ## Syntax
 
