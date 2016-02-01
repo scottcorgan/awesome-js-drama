@@ -25,6 +25,8 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 ## Compile-to-JavaScript
 
+[JSX vs not](https://twitter.com/andrestaltz/status/693197734740938753)
+
 ## Misc.
 
 * [Javascript Fatigue](https://www.google.com/webhp?ion=1&espv=2&es_th=1&ie=UTF-8#q=medium%20javascript%20fatigue&es_th=1)
