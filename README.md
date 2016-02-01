@@ -12,6 +12,8 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 ## Frameworks
 
+[Why React/Redux is inferior as a paradigm](https://news.ycombinator.com/item?id=10940845)
+
 ## Async
 
 [redux-saga removing promises](https://twitter.com/dan_abramov/status/693515104466378752)
