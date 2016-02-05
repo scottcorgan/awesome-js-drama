@@ -32,4 +32,5 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 ## Misc.
 
+* [Super Boring Job](https://twitter.com/feross/status/695399411543769090)
 * [Javascript Fatigue](https://www.google.com/webhp?ion=1&espv=2&es_th=1&ie=UTF-8#q=medium%20javascript%20fatigue&es_th=1)
