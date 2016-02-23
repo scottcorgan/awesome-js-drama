@@ -31,6 +31,10 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 * [JSX vs not](https://twitter.com/andrestaltz/status/693197734740938753)
 
+## Andre vs Dan
+
+* [MVC sucks](https://twitter.com/andrestaltz/status/702176259409743873) 
+
 ## Misc.
 
 * [Super Boring Job](https://twitter.com/feross/status/695399411543769090)
