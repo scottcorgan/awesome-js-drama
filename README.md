@@ -20,6 +20,7 @@ You may not mention a person, just a topic of disagreement. You may only link to
 * [Voting for favorite async types](https://twitter.com/jaffathecake/status/693913976422416387)
 * [redux-saga removing promises](https://twitter.com/dan_abramov/status/693515104466378752)
 * [Observables aren't like EventEmitters?](https://twitter.com/andrestaltz/status/695890421269057540)
+* [Sync looking async](https://twitter.com/getify/status/708716558235922433)
 
 ## Node
 
