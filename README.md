@@ -36,6 +36,11 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 * [MVC sucks](https://twitter.com/andrestaltz/status/702176259409743873) 
 
+## Github
+
+* [No Issues](https://twitter.com/thejameskyle/status/710352916519858176)
+* [Dear Github](https://github.com/dear-github/dear-github)
+
 ## Misc.
 
 * [Super Boring Job](https://twitter.com/feross/status/695399411543769090)
