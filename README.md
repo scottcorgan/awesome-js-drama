@@ -14,6 +14,7 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 * [Why React/Redux is inferior as a paradigm](https://news.ycombinator.com/item?id=10940845)
 * [What I meant when I said React/Redux is "bad"](https://twitter.com/andrestaltz/status/689891846538031106)
+* [Ember has a learning curve??](https://twitter.com/tomdale/status/713881076909740032)
 
 ## Async
 
