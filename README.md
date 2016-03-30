@@ -29,6 +29,7 @@ You may not mention a person, just a topic of disagreement. You may only link to
 * [ES* in Node](https://twitter.com/Fishrock123/status/691676456649408512)
 * [Promise vs errbacks in Node core](https://github.com/nodejs/NG/issues/25)
 * [Why I left Gulp and Grunt for NPM scripts](https://medium.com/@housecor/why-i-left-gulp-and-grunt-for-npm-scripts-3d6853dd22b8)
+* [Are core modules necessary?](https://twitter.com/dominictarr/status/714753766990430208)
 
 ## Compile-to-JavaScript
 
