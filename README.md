@@ -44,6 +44,10 @@ You may not mention a person, just a topic of disagreement. You may only link to
 * [No Issues](https://twitter.com/thejameskyle/status/710352916519858176)
 * [Dear Github](https://github.com/dear-github/dear-github)
 
+## react-router vs rrtr
+* [React Router is dead. Long live rrtr](https://medium.com/@taion/react-router-is-dead-long-live-rrtr-d229ca30e318#.m1a02stlp)
+* [Dan's Twitter thread](https://twitter.com/dan_abramov/status/719641046121103362)
+
 ## Misc.
 
 * [Super Boring Job](https://twitter.com/feross/status/695399411543769090)
