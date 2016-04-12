@@ -12,9 +12,13 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 ## Frameworks
 
-* [Why React/Redux is inferior as a paradigm](https://news.ycombinator.com/item?id=10940845)
-* [What I meant when I said React/Redux is "bad"](https://twitter.com/andrestaltz/status/689891846538031106)
-* [Ember has a learning curve??](https://twitter.com/tomdale/status/713881076909740032)
+* **React**
+  * [Why React/Redux is inferior as a paradigm](https://news.ycombinator.com/item?id=10940845)
+  * [What I meant when I said React/Redux is "bad"](https://twitter.com/andrestaltz/status/689891846538031106)
+  * [React Router is dead. Long live rrtr](https://medium.com/@taion/react-router-is-dead-long-live-rrtr-d229ca30e318#.m1a02stlp)
+    * [Dan's Twitter thread](https://twitter.com/dan_abramov/status/719641046121103362)
+* **Ember**
+  * [Ember has a learning curve??](https://twitter.com/tomdale/status/713881076909740032)
 
 ## Async
 
@@ -43,10 +47,6 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 * [No Issues](https://twitter.com/thejameskyle/status/710352916519858176)
 * [Dear Github](https://github.com/dear-github/dear-github)
-
-## React
-* [React Router is dead. Long live rrtr](https://medium.com/@taion/react-router-is-dead-long-live-rrtr-d229ca30e318#.m1a02stlp)
-  * [Dan's Twitter thread](https://twitter.com/dan_abramov/status/719641046121103362)
 
 ## Misc.
 
