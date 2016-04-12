@@ -17,6 +17,7 @@ You may not mention a person, just a topic of disagreement. You may only link to
   * [What I meant when I said React/Redux is "bad"](https://twitter.com/andrestaltz/status/689891846538031106)
   * [React Router is dead. Long live rrtr](https://medium.com/@taion/react-router-is-dead-long-live-rrtr-d229ca30e318#.m1a02stlp)
     * [Dan's Twitter thread](https://twitter.com/dan_abramov/status/719641046121103362)
+    * [Regarding the React Router Fork](https://gist.github.com/ryanflorence/08a056374e24a7cda3c459e3d7d63e6e)
 * **Ember**
   * [Ember has a learning curve??](https://twitter.com/tomdale/status/713881076909740032)
 
