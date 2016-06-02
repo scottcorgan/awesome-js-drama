@@ -19,6 +19,7 @@ You may not mention a person, just a topic of disagreement. You may only link to
     * [Dan's Twitter thread](https://twitter.com/dan_abramov/status/719641046121103362)
     * [Regarding the React Router Fork](https://gist.github.com/ryanflorence/08a056374e24a7cda3c459e3d7d63e6e)
     * [rrtr is Dead, Long Live React Router](https://medium.com/rackt-and-roll/rrtr-is-dead-long-live-react-router-ce982f6f1c10#.q8eabsl7o)
+    * [New developments in HTML](https://twitter.com/justinfagnani/status/734119635604279296)
 * **Ember**
   * [Ember has a learning curve??](https://twitter.com/tomdale/status/713881076909740032)
 
@@ -29,6 +30,7 @@ You may not mention a person, just a topic of disagreement. You may only link to
 * [Observables aren't like EventEmitters?](https://twitter.com/andrestaltz/status/695890421269057540)
 * [Sync looking async](https://twitter.com/getify/status/708716558235922433)
 * [Cancellable promises](https://github.com/whatwg/fetch/issues/27)
+  * [Ugh. A New keyword](https://twitter.com/benlesh/status/735866538729701378)
 
 ## Node
 
@@ -49,6 +51,10 @@ You may not mention a person, just a topic of disagreement. You may only link to
 
 * [No Issues](https://twitter.com/thejameskyle/status/710352916519858176)
 * [Dear Github](https://github.com/dear-github/dear-github)
+
+## Google
+
+* [The Platform](https://twitter.com/tomdale/status/734121796648206336)
 
 ## Misc.
 
